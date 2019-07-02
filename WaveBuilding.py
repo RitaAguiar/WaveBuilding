@@ -17,9 +17,9 @@ n_curtain_x = 25 #number of wood curtains in x axis reference
 n_curtain_y = 8  #number of wood curtains in y axis reference
 n_elements = 20  #number of wood elements per floor's height
 
-a = 3            #wave amplitude of wood elements 0.75
+a = 3            #wave amplitude of wood elements
 w = 0.5          #wave frequency
-fi = pi/8        #wave start angle pi/12
+fi = pi/8        #wave start angle
 dfi = pi/16      #wave gap
 
 #--------------------------------#
