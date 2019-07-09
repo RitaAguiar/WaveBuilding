@@ -66,11 +66,7 @@ def building_interior(p, a, w, fi, dfi):
 #facade elements
 
 def facade(p, a, w, fi, dfi):
-    #d = cos(height)
     m = length/n_curtain_x
-    #m_y = width/n_curtain_y
-    #l = sqrt(pow(d,2) + pow(m/2, 2))
-    #d = abs(cos(p.z))
     d_element = height/n_elements/2
     c = 2 * sqrt((d_element/2) ** 2/2)
     def element(p, dfi):
