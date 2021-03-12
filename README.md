@@ -5,4 +5,4 @@
 
 Now also in Julia, again, using the Khepri tool in Atom and generated in AutoCAD!
 
-![WaveBuilding in AutoCAD](https://github.com/RitaAguiar/WaveBuilding/blob/master/WaveBuilding_AutoCAD.jpg)
+![WaveBuilding in AutoCAD](https://github.com/RitaAguiar/WaveBuilding/blob/master/WaveBuilding_AutoCAD.JPG)
